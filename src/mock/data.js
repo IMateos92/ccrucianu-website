@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Cristina Crucianu | Product Manager', // e.g: 'Name | Developer'
+  title: 'Ignacio Mateos | Developer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: "Cristina Crucianu's website", // e.g: Welcome to my website
+  description: "Ignacio Mateos' website", // e.g: Welcome to my website
   img: 'https://cristinacrucianu.netlify.app/og.jpg',
 };
 
